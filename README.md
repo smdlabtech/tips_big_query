@@ -1,12 +1,10 @@
 BIG QUERY TIPS
 
 # Table des matières
-[1- Partition d'une table de données Big Query](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr#:~:text=Lorsque%20vous%20%C3%A9crivez%20des%20donn%C3%A9es,%2C%20quotidienne%2C%20mensuelle%20ou%20annuelle.)    
+[1- Partitionnement de table de données dans Big Query](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr)    
 
-### Supports docs :
-Pour voir à quoi ressemble nos tableaux de bord finaux, voici quelques exemples :  
-[**central_dashboard** [pdf]](/central_dashboard_.pdf)   
-[1- test [pdf]](/docs/controle_reciprocite_facture_ig.pdf)  
+### Supports docs : 
+[1- test](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr)  
 
 
 ### 1°) Partition d'une table de données Big Query  
