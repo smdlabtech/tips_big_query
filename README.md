@@ -1,7 +1,6 @@
 BIG QUERY TIPS
 
-
-### Table des matières
+# Table des matières
 [1- Partition d'une table de données Big Query](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr#:~:text=Lorsque%20vous%20%C3%A9crivez%20des%20donn%C3%A9es,%2C%20quotidienne%2C%20mensuelle%20ou%20annuelle.)    
 
 ### Supports docs :
