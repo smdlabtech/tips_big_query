@@ -1,6 +1,6 @@
-BIG QUERY TIPS
+# BIG QUERY TIPS
 
-# Table des matières
+## Table des matières
 [1- Partitionnement de table de données dans Big Query](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr)    
 
 ### Supports docs : 
