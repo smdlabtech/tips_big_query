@@ -4,7 +4,7 @@
 [1- Partitionnement de table de données dans Big Query](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr)    
 
 ### Supports docs : 
-[1- test](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr)  
+[1- Présentation des tables partitionnées](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr)  
 
 
 ### 1°) Partition d'une table de données Big Query  
