@@ -13,7 +13,7 @@ Pour être plus précis, supposons que vous avez 100 000 lignes et que vous voul
 Ce qui fait, lors du téléchargement sous Excel, nous sommes sûrs de ne pas perdre des données.  
 
 Voici donc, comment procéder : 
-1- Partition de données par le nombre de partions souhaitées
+1- Partition de données par le nombre de partions souhaitées  
 2- Export des données par les ID de partions.
 
 1- Partition de données par le nombre de partions souhaitées :  
