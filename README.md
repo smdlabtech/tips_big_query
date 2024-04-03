@@ -14,7 +14,7 @@ Ce qui fait, lors du téléchargement sous Excel, nous sommes sûrs de ne pas pe
 
 Voici donc, comment procéder :   
 *1- Partition de données par le nombre (N) de partions souhaitées*  
-*2- Export des données par les ID de partions.*
+*2- Export des données par les ID de partitions.*
 
 **1- Partition de données par le nombre de partions souhaitées :**  
 ```sql
