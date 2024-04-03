@@ -7,7 +7,7 @@
 [1- Présentation des tables partitionnées](https://cloud.google.com/bigquery/docs/partitioned-tables?hl=fr)  
 
 
-### 1°) Partition d'une table de données Big Query  
+### 1°) Partitionnement d'une table de données dans Big Query  
 Pour réaliser, une partition de données très facilement sur big query quand vous avez un grand volume de données, il suffit de vous assurer que le nombre de partitions et facilement chargeable ou téléchargeable dans un système de données.
 Pour être plus précis, supposons que vous avez 100 000 lignes et que vous voulez les télécharger en locale vos données. Dans ce cas ci, vous pouvez partitionné vos données par 5, ce qui fera, 20 000 lignes par partition en moyenne.
 Ce qui fait, lors du téléchargement sous Excel, nous sommes sûrs de ne pas perdre des données.  
