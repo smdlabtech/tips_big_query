@@ -12,7 +12,7 @@ Pour réaliser, une partition de données très facilement sur big query quand v
 Pour être plus précis, supposons que vous avez 100 000 lignes et que vous voulez les télécharger en locale vos données. Dans ce cas ci, vous pouvez partitionné vos données par 5, ce qui fera, 20 000 lignes par partition en moyenne.
 Ce qui fait, lors du téléchargement sous Excel, nous sommes sûrs de ne pas perdre des données.  
 
-Voici donc, comment procéder : 
+Voici donc, comment procéder :   
 1- Partition de données par le nombre de partions souhaitées  
 2- Export des données par les ID de partions.
 
