@@ -16,7 +16,7 @@ Voici donc, comment procéder :
 *1- Partition de données par le nombre (N) de partions souhaitées*  
 *2- Export des données par les ID de partitions.*
 
-**1- Partition de données par le nombre de partions souhaitées :**  
+**1- Partition de données par le nombre (N) de partions souhaitées :**  
 ```sql
 CREATE OR REPLACE TABLE `votre_ensemble_de_donnees.votre_table_de_partitions_qui_sera_creer`
 PARTITION BY RANGE_BUCKET(export_id, GENERATE_ARRAY(0, 5, 1))  --N=5, Le nombre de partitions est (N-1) <--> 5-1
@@ -27,7 +27,7 @@ FROM `la_table_que_vous_souhaitez_partitionner`
 );
 ```  
 
-**2- Export des données par les ID de partions :**
+**2- Export des données par les ID (N) de partions :**
 ```sql
 --Partition des données ;
 SELECT * EXCEPT(export_id)
